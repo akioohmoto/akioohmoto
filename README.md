@@ -4,6 +4,9 @@
 🔭 I’m currently working on ...
 Getting better at JavaScript and front-end development
 
+Check out my work!
+<li https://akioohmoto.github.io/home/ >
+
 ### 🧰 Tools Used
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
