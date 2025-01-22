@@ -5,7 +5,7 @@
 Getting better at JavaScript and front-end development
 
 Check out my work!
-<li https://akioohmoto.github.io/home/ >
+<a href="https://akioohmoto.github.io/home/">Visit Akio Ohmoto's Home</a>
 
 ### 🧰 Tools Used
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
